@@ -1,0 +1,15 @@
+﻿Name,Platform/Network,Type of Scam,Description
+Fake Pi Network Airdrop,Pi Network,Wallet Credential Theft,"Fake airdrops claiming to distribute Pi coins, requiring users to submit wallet keys."
+OneCoin Airdrop,Independent,Ponzi Scheme,"Promoted a fake cryptocurrency, OneCoin, that promised airdrops but had no blockchain."
+Monorix,TON Network,Fake Casino,Pretended to be a casino-related airdrop scam to trick users into participation.
+Tronix Giveaway,TRON Network,Phishing Scam,Fake airdrop where scammers impersonated TRON Foundation for wallet access.
+Tether (USDT) Airdrop Scam,Ethereum/TRON,Phishing/Impersonation,"Fake USDT airdrop requiring users to submit funds to ""unlock"" free tokens."
+Ethereum Classic (ETC) Airdrop,Ethereum Classic,Credential Theft,Claimed an ETC airdrop but directed users to malicious websites for credentials.
+Fake XRP Giveaways,Ripple (XRP),Impersonation/Phishing,"Scammers impersonated Ripple's CEO to ""airdrop"" XRP after a wallet connection."
+Solenix Airdrop,Solana,Phishing Wallet Scam,Pretended to distribute SOL tokens but aimed to compromise Solana wallets.
+Dogecoin Airdrop Scam,Dogecoin,Impersonation Giveaway,Fake giveaways claiming to multiply DOGE sent to specific wallet addresses.
+Notcoin Scams (Clones),Telegram/Ton,Fake Clone Sites,"Fake ""Notcoin"" clones promising tokens to lure users into fraudulent links."
+Fake Profile Marketing Airdrop,Multi-Platform,Fake Profile Impersonation,"Scammers create fake profiles resembling official ones (e.g., Celestia airdrop) to lure victims."
+Impersonation of Popular Accounts,Multi-Platform,Phishing/Impersonation,"Fraudsters mimic famous crypto accounts or platforms (e.g., ""eansrdrop.io"" vs. ""earndrop.io"")."
+Fake Airdrop Claim Websites,Multi-Platform,Fake Claim Sites,Fraudsters create fake claim sites during legitimate airdrops to steal wallets or seed phrases.
+Fake Token and NFT Airdrops,Multi-Platform,Malicious Token/NFT Airdrop,"Scammers send fake NFTs or tokens resembling real projects, e.g., ""Bored Ape Yatch Club."""
